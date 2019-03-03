@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="JaratKezelo.cs" />
+    <Compile Include="NegativKesesException.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Test\JaratTest.cs" />
   </ItemGroup>
